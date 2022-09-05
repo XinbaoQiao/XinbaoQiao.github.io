@@ -17,15 +17,15 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I study at ZJU as a master of engineering now, leading the audio team and doing some fundamental audio-related research. We are hiring researchers and engineers to work on TTS, music generation, speech translation and audio-driven talking face generation. If interested, feel free to email me at renyi@sea.com.
+I study at ZJU as a master of engineering now, leading the audio team and doing some fundamental audio-related research.
 
-I graduated from ShanDong University with a bachelor’s degree. I study at Zhejiang University with a master’s degree, advised by Zhang Meng.
+I graduated from ShanDong University(https://www.sdu.edu.cn/) with a bachelor’s degree. I study at Zhejiang University(https://zjui.intl.zju.edu.cn/en) with a master’s degree, advised by Zhang Meng.
 
-My research interest includes Federated Learning and Differential Privacy. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
+My research interest includes Federated Learning and Differential Privacy. I have published more than 0 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>0+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
 
 
 # News
-- *2022.02*: &nbsp;🎉🎉 None. 
+- *2022.07*: &nbsp;🎉🎉 I graduated from Shandong University. 
 
 # Publications 
 
@@ -47,8 +47,8 @@ My research interest includes Federated Learning and Differential Privacy. I hav
 - *2022.10* None.
 
 # Educations
-- *2022.09 - (now), Master, Artificial Intelligence, Zhejiang University
-- *2018.09 - 2022.07*, Undergraduate, Comuniaction engineering, Shandong Univeristy.
+- *2022.09* - (now), Master, Artificial Intelligence, Zhejiang University
+- *2018.09* - 2022.07*, Undergraduate, Comuniaction engineering, Shandong Univeristy.
 
 # Invited Talks 
 - *2021.03*, None \| [\[video\]](https://github.com/)
