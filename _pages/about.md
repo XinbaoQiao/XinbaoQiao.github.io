@@ -17,15 +17,15 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am Xinbao Qiao, a first-year student in the Zhejiang University(https://zjui.intl.zju.edu.cn/en) . 
+I am Xinbao Qiao, a first-year student in the [Zhejiang University](https://zjui.intl.zju.edu.cn/en) . 
 
-I graduated from ShanDong University(https://www.sdu.edu.cn/) with a bachelor’s degree. I study at Zhejiang University(https://zjui.intl.zju.edu.cn/en) with a master’s degree, advised by Zhang Meng.
+I graduated from [ShanDong University](https://www.sdu.edu.cn/) with a bachelor’s degree. I study at [Zhejiang University](https://zjui.intl.zju.edu.cn/en) with a master’s degree, advised by [Meng Zhang](https://person.zju.edu.cn/mengzhang).
 
 My research interest includes Federated Learning and Differential Privacy. I have published more than 0 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>0+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
 
 
 # News
-- *2022.07*: &nbsp;🎉🎉 I graduated from Shandong University. 
+- *2022.07*: &nbsp;🎉🎉 I graduated from [ShanDong University](https://www.sdu.edu.cn/). 
 
 # Publications 
 
