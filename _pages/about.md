@@ -25,7 +25,10 @@ My research interest includes Federated Learning and Differential Privacy. I hav
 
 
 # News
-- *2022.07*: &nbsp;🎉🎉 I graduated from [ShanDong University](https://www.sdu.edu.cn/). 
+- *2022.07*: &nbsp;🎉🎉 I graduated from ShanDong University with a bachelor’s degree!
+
+
+
 
 # Publications 
 
@@ -45,6 +48,10 @@ My research interest includes Federated Learning and Differential Privacy. I hav
 
 # Honors and Awards
 - *2022.10* None.
+
+
+
+
 
 # Educations
 - *2022.09* - (now), Master, Artificial Intelligence, Zhejiang University
