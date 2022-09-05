@@ -50,8 +50,5 @@ My research interest includes Federated Learning and Differential Privacy. I hav
 - *2022.09* - (now), Master, Artificial Intelligence, Zhejiang University
 - *2018.09* - 2022.07*, Undergraduate, Comuniaction engineering, Shandong Univeristy.
 
-# Invited Talks 
-- *2021.03*, None \| [\[video\]](https://github.com/)
-
 # Internships
 - *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
