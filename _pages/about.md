@@ -28,7 +28,7 @@ My research interest includes Federated Learning and Differential Privacy. I hav
 - *2022.07*: &nbsp;🎉🎉 I graduated from ShanDong University with a bachelor’s degree!
 
 
-# Publications 
+# Publications
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -85,4 +85,4 @@ My research interest includes Federated Learning and Differential Privacy. I hav
 
 
 # Internships
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
+- *2022.10 - 2022.10*, [None](https://github.com/), China.
