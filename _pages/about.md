@@ -84,5 +84,5 @@ My research interest includes Federated Learning and Differential Privacy. I hav
 - *2018.09* - 2022.07*, Undergraduate, Comuniaction engineering, Shandong Univeristy.
 
 
-# Internships
+# Experiences
 - *2022.10 - 2022.10*, [None](https://github.com/), China.
