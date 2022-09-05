@@ -8,7 +8,7 @@
 # Site Settings
 title                    : "Xinbao Qiao"
 description              : "Master in ZJUI. Focusing on Federated Learning, Differential Privacy. "
-repository               : "Qiaomuaa/XinbaoQiao.github.io"
+repository               : #"Qiaomuaa/XinbaoQiao.github.io"
 google_scholar_stats_use_cdn : true
 
 # google analytics
