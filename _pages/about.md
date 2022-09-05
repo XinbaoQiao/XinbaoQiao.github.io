@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I study at ZJU as a master of engineering now, leading the audio team and doing some fundamental audio-related research.
+I am Xinbao Qiao, a first-year student in the Zhejiang University(https://zjui.intl.zju.edu.cn/en) . 
 
 I graduated from ShanDong University(https://www.sdu.edu.cn/) with a bachelor’s degree. I study at Zhejiang University(https://zjui.intl.zju.edu.cn/en) with a master’s degree, advised by Zhang Meng.
 
