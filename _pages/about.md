@@ -37,7 +37,7 @@ My research interest includes Machine Unlearning and Trustworthy ML. I have publ
 
 **Xinbao Qiao**, Meng Zhang, Ming Tang, Ermin Wei
 
-[**Code**](https://arxiv.org/abs/2404.01712) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong> 
+[**Code**](https://arxiv.org/abs/2404.01712) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'>
 [**Slide**](https://arxiv.org/abs/2404.01712) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 
 - Machine Unlearning, Certified Data Removal.
