@@ -45,10 +45,8 @@ My research interest includes Machine Unlearning and Trustworthy ML. I have publ
 </div>
 
 
-
 # Honors and Awards
 - *2022.10* None.
-
 
 # Educations
 - *2022.09* - (now), Master, Artificial Intelligence, Zhejiang University
