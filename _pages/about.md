@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am Xinbao Qiao, a first-year master student in the [Zhejiang University](https://www.zju.edu.cn/english/) . 
+I am Xinbao Qiao, a second-year master student in the [Zhejiang University](https://www.zju.edu.cn/english/) . 
 
 I graduated from [ShanDong University](https://www.en.sdu.edu.cn/) with a bachelor’s degree. Now I study at [ZJUI](https://zjui.intl.zju.edu.cn/en) with a master’s degree, advised by [Meng Zhang](https://person.zju.edu.cn/mengzhang).
 
