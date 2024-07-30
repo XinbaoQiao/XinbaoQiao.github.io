@@ -19,13 +19,13 @@ redirect_from:
 
 I am Xinbao Qiao, a second-year master student in the [Zhejiang University](https://www.zju.edu.cn/english/) . 
 
-I graduated from [ShanDong University](https://www.en.sdu.edu.cn/) with a bachelor’s degree. Now I study at [ZJUI](https://zjui.intl.zju.edu.cn/en) with a master’s degree, advised by [Meng Zhang](https://person.zju.edu.cn/mengzhang).
+I graduated from [Shandong University](https://www.en.sdu.edu.cn/) with a bachelor’s degree. Now I study at [ZJUI](https://zjui.intl.zju.edu.cn/en) with a master’s degree, advised by [Meng Zhang](https://person.zju.edu.cn/mengzhang).
 
 My research interest includes Machine Unlearning and Trustworthy ML. I have published 1 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=nhC_OfEAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
 
 
 # News
-- *2022.07*: &nbsp;🎉🎉 I graduated from ShanDong University with a bachelor’s degree!
+- *2022.07*: &nbsp;🎉🎉 I graduated from Shandong University with a bachelor’s degree!
 
 
 # Publications
