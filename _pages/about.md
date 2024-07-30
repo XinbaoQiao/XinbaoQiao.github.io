@@ -33,7 +33,7 @@ My research interest includes Machine Unlearning and Trustworthy ML. I have publ
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ArXiv 2024</div><img src='images/Efficient_Online_Unlearning.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Efficient Online Unlearning via Hessian-Free Recollection of Individual Data Statistics](https://arxiv.org/abs/2404.01712)
+[Efficient and Generalizable Certified Unlearning: A Hessian-free Recollection Approach](https://arxiv.org/abs/2404.01712)
 
 **Xinbao Qiao**, Meng Zhang, Ming Tang, Ermin Wei
 
