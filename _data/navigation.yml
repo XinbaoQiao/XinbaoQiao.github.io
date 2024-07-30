@@ -8,15 +8,19 @@ main:
 
   - title: "Publications"
     url: "/#publications"
-
+    
+<!--
   - title: "Honors and Awards"
     url: "/#honors-and-awards"
+-->
 
   - title: "Educations"
     url: "/#educations"
 
+<!--
   - title: "Experiences"
     url: "/#experiences"
+-->
 
   - title: "Blog"
     url: "https://www.writebug.com/group/XinbaoQiao/home"
