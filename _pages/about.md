@@ -23,10 +23,10 @@ I graduated from [Shandong University](https://www.en.sdu.edu.cn/) with a bachel
 
 My research interest includes Machine Unlearning and Trustworthy ML. I have published 1 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=nhC_OfEAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
 
-
+<!-- 
 # News
 - *2022.07*: &nbsp;🎉🎉 I graduated from Shandong University with a bachelor’s degree!
-
+-->
 
 # Publications
 
