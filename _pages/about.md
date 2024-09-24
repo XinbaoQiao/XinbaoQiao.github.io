@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am Xinbao Qiao, a second-year master student in the [Zhejiang University](https://www.zju.edu.cn/english/) . 
+I am Xinbao Qiao, a third-year master student in the [Zhejiang University](https://www.zju.edu.cn/english/) . 
 
 I graduated from [Shandong University](https://www.en.sdu.edu.cn/) with a bachelor’s degree. Now I study at [ZJUI](https://zjui.intl.zju.edu.cn/en) with a master’s degree, advised by [Meng Zhang](https://person.zju.edu.cn/mengzhang).
 
@@ -37,6 +37,7 @@ My research interest includes Machine Unlearning and Trustworthy ML. I have publ
 
 **Xinbao Qiao**, Meng Zhang, Ming Tang, Ermin Wei
 
+- Trustworthy Machine Learning (Privacy, Security, Fairness, and Explainable Artificial Intelligence)
 - Machine Unlearning, Certified Data Removal.
 
 [**Code**](https://arxiv.org/abs/2404.01712) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>    [**Slide**](https://arxiv.org/abs/2404.01712) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
