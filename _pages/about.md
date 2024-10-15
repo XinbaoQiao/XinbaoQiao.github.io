@@ -34,7 +34,7 @@ I have published 1 papers at the top international AI conferences with total <a 
 
 # Publications
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ArXiv 2024</div><img src='images/Hessian_Free_Unlearning.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ArXiv 2024</div><img src='images/HF Unlearning.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Efficient and Generalizable Second-Order Unlearning: A Hessian-Free Online Model Updates Approach](https://arxiv.org/abs/2404.01712)
