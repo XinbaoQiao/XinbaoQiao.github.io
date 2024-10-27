@@ -43,7 +43,7 @@ I have published 1 papers at the top international AI conferences with total <a 
 
 - Machine Unlearning, Certified Data Removal.
 
-[**Code**]([https://arxiv.org/abs/2404.01712](https://github.com/XinbaoQiao/Hessian-Free-Certified-Unlearning)) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>    [**Slide**](https://arxiv.org/abs/2404.01712) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+[**Code**](https://github.com/XinbaoQiao/Hessian-Free-Certified-Unlearning) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>    [**Slide**](https://arxiv.org/abs/2404.01712) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
  [**Paper**](https://arxiv.org/abs/2404.01712) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 
 </div>
