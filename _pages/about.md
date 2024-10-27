@@ -41,7 +41,7 @@ I have published 1 papers at the top international AI conferences with total <a 
 
 **Xinbao Qiao**, Meng Zhang, Ming Tang, Ermin Wei
 
-- Machine Unlearning, Certified Data Removal.
+- Machine Unlearning, Certified Data Removal, Privacy
 
 TL;DR: A Hessian-free certified unlearning method that does not rely on empirical risk minimizers and avoids strong convexity assumptions, achieving near-instantaneous unlearning.
 
