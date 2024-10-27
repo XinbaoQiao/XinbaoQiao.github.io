@@ -34,15 +34,19 @@ I have published 1 papers at the top international AI conferences with total <a 
 
 # Publications
 
-<div class='paper-box'>
-    <div class='paper-box-image'>
-        <div>
+<div class='paper-box'><div class='paper-box-image'> <div>
             <div class="badge">ArXiv 2024</div>
             <img src='images/HF Unlearning.png' alt="sym" width="100%">
         </div>
     </div>
     <div class='paper-box-text' markdown="1">
         [Efficient and Generalizable Second-Order Unlearning: A Hessian-Free Online Model Updates Approach](https://arxiv.org/abs/2404.01712)
+        **Xinbao Qiao**, Meng Zhang, Ming Tang, Ermin Wei
+
+- Machine Unlearning, Certified Data Removal.
+
+[**Code**](https://github.com/XinbaoQiao/Hessian-Free-Certified-Unlearning) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>    [**Slide**](https://arxiv.org/abs/2404.01712) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+ [**Paper**](https://arxiv.org/abs/2404.01712) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
     </div>
 </div>
 
@@ -51,7 +55,7 @@ I have published 1 papers at the top international AI conferences with total <a 
 <div class='paper-box-text' markdown="1">
 
 [Efficient and Generalizable Second-Order Unlearning: A Hessian-Free Online Model Updates Approach](https://arxiv.org/abs/2404.01712)
--->
+
 
 **Xinbao Qiao**, Meng Zhang, Ming Tang, Ermin Wei
 
@@ -62,7 +66,7 @@ I have published 1 papers at the top international AI conferences with total <a 
 
 </div>
 </div>
-
+-->
 
 <!-- 
 # Honors and Awards
