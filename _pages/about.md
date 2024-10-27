@@ -41,7 +41,9 @@ I have published 1 papers at the top international AI conferences with total <a 
 [Efficient and Generalizable Second-Order Certified Unlearning: A Hessian-Free Online Model Updates Approach](https://arxiv.org/abs/2404.01712)
 
 **Xinbao Qiao**, Meng Zhang, Ming Tang, Ermin Wei
+
 - Machine Unlearning, Certified Data Removal, Privacy
+  
 **TL;DR**: A Hessian-free certified unlearning method that does not rely on empirical risk minimizers and avoids strong convexity assumptions, achieving near-instantaneous unlearning.
 
 [**Code**](https://github.com/XinbaoQiao/Hessian-Free-Certified-Unlearning) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>    [**Slide**](https://arxiv.org/abs/2404.01712) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
