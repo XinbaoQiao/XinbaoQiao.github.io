@@ -44,7 +44,7 @@ I have published 1 papers at the top international AI conferences with total <a 
 
 - Machine Unlearning, Certified Data Removal, Privacy
   
-**TL;DR**: A Hessian-free certified unlearning method that does not rely on empirical risk minimizers and avoids strong convexity assumptions, achieving near-instantaneous unlearning.
+**TL;DR**: addressing gaps in non-convex settings and unique minimizer assumptionthat previous work relied on, while achieving the most efficient data removal.
 
 [**Code**](https://github.com/XinbaoQiao/Hessian-Free-Certified-Unlearning) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>    [**Slide**](https://arxiv.org/abs/2404.01712) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
  [**Paper**](https://arxiv.org/abs/2404.01712) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
