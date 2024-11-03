@@ -61,7 +61,7 @@ Shurong Wang, Zhuoyang Shen, **Xinbao Qiao**, Tongning Zhang, Meng Zhang
 
 - Exact Machine Unlearning, Random Forest, Privacy
   
-**TL;DR**: We combined subsampling methods, the lazy tag strategy, and the robustness of Extremely Randomized Trees to achieve the most efficient data removal in Random Forests.
+**TL;DR**: Combining subsampling methods, the lazy tag strategy, and the robustness of Extremely Randomized Trees to achieve the most efficient unlearning in Random Forests.
 
 [**Code**](https://arxiv.org/abs/2410.01588) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>    [**Slide**](https://arxiv.org/abs/2410.01588) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
  [**Paper**](https://arxiv.org/abs/2410.01588) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
