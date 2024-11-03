@@ -53,12 +53,11 @@ I have published 1 papers at the top international AI conferences with total <a 
 </div>
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ArXiv 2024</div><img src='images/DynFrs.pdf' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
+<div class='paper-box'><div class='paper-box-image'><div class="badge">ArXiv 2024</div><iframe src='images/DynFrs.pdf' width="100%" height="500px"></iframe></div></div>
 
 [DynFrs: An Efficient Framework for Machine Unlearning in Random Forest](https://arxiv.org/abs/2410.01588)
 
-**Xinbao Qiao**, Meng Zhang, Ming Tang, Ermin Wei
+Shurong Wang, Zhuoyang Shen, **Xinbao Qiao**, Tongning Zhang, Meng Zhang
 
 - Exact Machine Unlearning, Random Forest, Privacy
   
