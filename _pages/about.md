@@ -42,12 +42,30 @@ I have published 1 papers at the top international AI conferences with total <a 
 
 **Xinbao Qiao**, Meng Zhang, Ming Tang, Ermin Wei
 
-- Machine Unlearning, Certified Data Removal, Privacy
+- Approximate Machine Unlearning, Certified Data Removal, Privacy
   
 **TL;DR**: addressing second-order certified unlearning gaps in non-convex settings and nonconvergence conditions, while achieving the most efficient data removal.
 
 [**Code**](https://github.com/XinbaoQiao/Hessian-Free-Certified-Unlearning) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>    [**Slide**](https://arxiv.org/abs/2404.01712) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
  [**Paper**](https://arxiv.org/abs/2404.01712) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+
+</div>
+</div>
+
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ArXiv 2024</div><img src='images/DynFrs.pdf' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[DynFrs: An Efficient Framework for Machine Unlearning in Random Forest](https://arxiv.org/abs/2410.01588)
+
+**Xinbao Qiao**, Meng Zhang, Ming Tang, Ermin Wei
+
+- Exact Machine Unlearning, Random Forest, Privacy
+  
+**TL;DR**: We combined subsampling methods, the lazy tag strategy, and the robustness of Extremely Randomized Trees to achieve the most efficient data removal in Random Forests.
+
+[**Code**](https://arxiv.org/abs/2410.01588) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>    [**Slide**](https://arxiv.org/abs/2410.01588) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+ [**Paper**](https://arxiv.org/abs/2410.01588) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 
 </div>
 </div>
