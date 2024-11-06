@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am Xinbao Qiao (Sheen-bao Ciao /ʃɪnbaʊ/ /tʃaʊ/), a third-year master student in the [Zhejiang University](https://www.zju.edu.cn/english/) . 
+I am Xinbao Qiao (Sheen-bao Ciao /ʃɪnbaʊ/ /tʃjaʊ/), a third-year master student in the [Zhejiang University](https://www.zju.edu.cn/english/) . 
 
 I graduated from [Shandong University](https://www.en.sdu.edu.cn/) with a bachelor’s degree. Now I study at [ZJUI](https://zjui.intl.zju.edu.cn/en) with a master’s degree, advised by [Meng Zhang](https://person.zju.edu.cn/mengzhang).
 
