@@ -83,3 +83,36 @@ Shurong Wang, Zhuoyang Shen, **Xinbao Qiao**, Tongning Zhang, Meng Zhang
 # Experiences
 - *2022.10 - 2022.10*, [None](https://github.com/), China.
 -->
+
+
+
+<!-- 添加样式 -->
+<style>
+    .page-view-container {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        margin: 20px 0;
+        padding: 10px 20px;
+        background: #f9f9f9;
+        border: 1px solid #ddd;
+        border-radius: 8px;
+        box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+        font-family: Arial, sans-serif;
+        color: #333;
+    }
+    .page-view-container i {
+        margin-left: 5px;
+        color: #007BFF;
+    }
+</style>
+
+<!-- 页脚内容 -->
+<div class="page-view-container">
+    Total page views: <span id="busuanzi_value_page_pv"><i class="fa fa-spinner fa-spin"></i></span>
+</div>
+
+<!-- Font Awesome 样式表 -->
+<link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.3.1/css/all.css" integrity="sha384-mzrmE5qonljUremFsqc01SB46JvROS7bZs3IO2EmfFsd15uHvIt+Y8vEf7N7fWA
+
+
