@@ -73,7 +73,7 @@ Shurong Wang, Zhuoyang Shen, **Xinbao Qiao**, Tongning Zhang, Meng Zhang
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ArXiv 2024</div><img src='images/HF Unlearning.png.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
   
-[Soft-Weighted Machine Unlearning (manuscript)]([https://arxiv.org/abs/2410.01588](https://arxiv.org/abs/2404.01712))
+[Soft-Weighted Machine Unlearning (manuscript)]((https://arxiv.org/abs/2404.01712))
 
 **Xinbao Qiao**, Meng Zhang, Ningning Ding
 
@@ -83,6 +83,9 @@ Shurong Wang, Zhuoyang Shen, **Xinbao Qiao**, Tongning Zhang, Meng Zhang
 
 [**Code**](https://arxiv.org/abs/2410.01588) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>    [**Slide**](https://arxiv.org/abs/2410.01588) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
  [**Paper**](https://arxiv.org/abs/2410.01588) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+
+</div>
+</div>
 
 <!-- 
 # Honors and Awards
