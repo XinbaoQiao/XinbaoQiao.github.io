@@ -35,7 +35,7 @@ I have published 1 papers at the top international AI conferences with total <a 
 
 # Publications
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ArXiv 2024</div><img src='images/HF Unlearning.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICLR 2024</div><img src='images/HF Unlearning.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Hessian-Free Online Certified Unlearning](https://arxiv.org/abs/2404.01712)
@@ -70,14 +70,14 @@ Shurong Wang, Zhuoyang Shen, **Xinbao Qiao**, Tongning Zhang, Meng Zhang
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICLR 2025</div><img src='images/HF Unlearning.png.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ArXiv 2025</div><img src='images/HF Unlearning.png.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
   
 [Soft-Weighted Machine Unlearning (manuscript)]((https://arxiv.org/abs/2404.01712))
 
-**Xinbao Qiao**, Meng Zhang, Ningning Ding
+**Xinbao Qiao**, Ningning Ding, Meng Zhang
 
-- Machine Unlearning, Influence Function, Fairness, Data Drift
+- Machine Unlearning, Influence Function, Fairness, Robustness
   
 **TL;DR**: Addressing the challenge of excessive unlearning in non-privacy-focused scenarios through soft-weighted strategies.
 
