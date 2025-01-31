@@ -70,7 +70,7 @@ Shurong Wang, Zhuoyang Shen, **Xinbao Qiao**, Tongning Zhang, Meng Zhang
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ArXiv 2025</div><img src='images/SW Unlearning.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ArXiv 2025</div><img src='images/SW Unlearning.pdf' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
   
 [Soft-Weighted Machine Unlearning (manuscript)]((https://arxiv.org/abs/2404.01712))
