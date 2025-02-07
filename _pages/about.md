@@ -93,7 +93,7 @@ Shurong Wang, Zhuoyang Shen, **Xinbao Qiao**, Tongning Zhang, Meng Zhang
 -->
 
 # Educations
-- *2022.09* -  present, Master, Artificial Intelligence, Zhejiang University
+- *2022.09* -  2022.06, Master, Artificial Intelligence, Zhejiang University
 - *2018.09 - 2022.07*, Bachelor, Communication Engineering, Shandong Univeristy.
 
 <!-- 
