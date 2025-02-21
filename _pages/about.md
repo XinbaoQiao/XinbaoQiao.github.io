@@ -35,7 +35,7 @@ I have published 1 papers at the top international AI conferences with total <a 
 
 # Publications
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICLR 2024</div><img src='images/HF Unlearning.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICLR 2025</div><img src='images/HF Unlearning.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Hessian-Free Online Certified Unlearning](https://arxiv.org/abs/2404.01712)
@@ -53,7 +53,7 @@ I have published 1 papers at the top international AI conferences with total <a 
 </div>
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICLR 2024</div><img src='images/DynFrs.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICLR 2025</div><img src='images/DynFrs.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
   
 [DynFrs: An Efficient Framework for Machine Unlearning in Random Forest](https://arxiv.org/abs/2410.01588)
