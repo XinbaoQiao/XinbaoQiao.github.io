@@ -65,7 +65,7 @@ Shurong Wang, Zhuoyang Shen, **Xinbao Qiao**, Tongning Zhang, Meng Zhang
   
 **TL;DR**: combining subsampling methods, the lazy tag strategy, and the robustness of Extremely Randomized Trees to achieve Random Forest unlearning in dynamic environments.
 
-[**Code**](https://github.com/shurongwang/DynFrs) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>    
+[**Code**](https://github.com/shurongwang/DynFrs) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 [**Slide**](https://arxiv.org/abs/2410.01588) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 [**Poster**](images/ICLR2025-Poster-2.png) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 [**Paper**](https://arxiv.org/abs/2410.01588) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
