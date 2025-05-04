@@ -21,7 +21,8 @@ I am ✨ **Xinbao Qiao** (Sheen-bao Ciao /ʃɪnbaʊ/ /tʃjaʊ/), 🐼 Namesake o
 
 I graduated from [Shandong University](https://www.en.sdu.edu.cn/) with a bachelor’s degree. Now I study at [ZJUI](https://zjui.intl.zju.edu.cn/en) with a master’s degree, advised by [Meng Zhang](https://person.zju.edu.cn/mengzhang).
 
-My research interest includes Trustworthy ML, specifically in Machine Unlearning, Privacy, Fairness, and exploration of trade-offs between different pillars of trust in Machine Learning.
+My research interest focus on building data-centric ML systems that ensure trustworthy AI systems, and deploy these systems to solve real-world challenges,
+e.g., distributed systems and healthcare/biomedicine.
 
 <!-- 
 I have published 1 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=nhC_OfEAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
