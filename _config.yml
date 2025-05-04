@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Xinbao Qiao"
-description              : "Master of Artificial Intelligence at ZJU. Focusing on Trustworthy ML (Privacy, Fairness, and Explainability) and Distributed Learning. "
+description              : "Master of Artificial Intelligence at ZJU. Focusing on building data-centric ML systems that ensure trustworthy AI systems, and deploy these systems to solve real-world challenges, e.g., distributed systems and healthcare/biomedicine."
 repository               : "XinbaoQiao/XinbaoQiao.github.io"
 google_scholar_stats_use_cdn : true
 
