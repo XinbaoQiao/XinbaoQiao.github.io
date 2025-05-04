@@ -21,7 +21,7 @@ I am ✨ **Xinbao Qiao** (Sheen-bao Ciao /ʃɪnbaʊ/ /tʃjaʊ/), 🐼 Namesake o
 
 I graduated from [Shandong University](https://www.en.sdu.edu.cn/) with a bachelor’s degree. Now I study at [ZJUI](https://zjui.intl.zju.edu.cn/en) with a master’s degree, advised by [Meng Zhang](https://person.zju.edu.cn/mengzhang).
 
-My research interest focus on building data-centric ML systems that ensure trustworthy AI systems, and deploy these systems to solve real-world challenges,
+My research interest focus on building data-centric ML systems that ensure trustworthy AI systems, and deploy these systems to solve real-world challenges,
 e.g., distributed systems and healthcare/biomedicine.
 
 <!-- 
