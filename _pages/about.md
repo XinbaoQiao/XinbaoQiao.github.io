@@ -77,7 +77,7 @@ Shurong Wang, Zhuoyang Shen, **Xinbao Qiao**, Tongning Zhang, Meng Zhang
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI 2026</div><img src='images/SW Unlearning.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
   
-[Soft Weighted Machine Unlearning]((https://arxiv.org/abs/2404.01712))
+[Beyond Binary Erasure: Soft-Weighted Unlearning for Fairness and Robustness](https://openreview.net/forum?id=bCPJ6Jiqv7)
 
 **Xinbao Qiao**, Ningning Ding, Yushi Cheng, Meng Zhang
 
