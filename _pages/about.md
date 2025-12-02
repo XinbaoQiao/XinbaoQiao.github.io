@@ -36,6 +36,21 @@ I have published 1 papers at the top international AI conferences with total <a 
 
 # Publications
 
+[Beyond Binary Erasure: Soft-Weighted Unlearning for Fairness and Robustness](https://openreview.net/forum?id=bCPJ6Jiqv7)
+
+**Xinbao Qiao**, Ningning Ding, Yushi Cheng, Meng Zhang
+
+- Machine Unlearning, Influence Function, Fairness, Robustness
+  
+**TL;DR**: Addressing the challenge of excessive unlearning in non-privacy-focused scenarios through soft-weighted strategies.
+
+[**Code**](https://github.com/XinbaoQiao/Soft-Weighted-Machine-Unlearning) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>   [**Slide**](https://github.com/XinbaoQiao/Soft-Weighted-Machine-Unlearning) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+[**Poster**](images/ICLR2025-Poster-1.png) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+[**Paper**](https://github.com/XinbaoQiao/Soft-Weighted-Machine-Unlearning) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+
+</div>
+</div>
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICLR 2025</div><img src='images/HF Unlearning.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -76,22 +91,8 @@ Shurong Wang, Zhuoyang Shen, **Xinbao Qiao**, Tongning Zhang, Meng Zhang
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI 2026</div><img src='images/SW Unlearning.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
+
   
-[Beyond Binary Erasure: Soft-Weighted Unlearning for Fairness and Robustness](https://openreview.net/forum?id=bCPJ6Jiqv7)
-
-**Xinbao Qiao**, Ningning Ding, Yushi Cheng, Meng Zhang
-
-- Machine Unlearning, Influence Function, Fairness, Robustness
-  
-**TL;DR**: Addressing the challenge of excessive unlearning in non-privacy-focused scenarios through soft-weighted strategies.
-
-[**Code**](https://github.com/XinbaoQiao/Soft-Weighted-Machine-Unlearning) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>   [**Slide**](https://github.com/XinbaoQiao/Soft-Weighted-Machine-Unlearning) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-[**Poster**](images/ICLR2025-Poster-1.png) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-[**Paper**](https://github.com/XinbaoQiao/Soft-Weighted-Machine-Unlearning) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-
-</div>
-</div>
-
 <!-- 
 # Honors and Awards
 - *2022.10* None.
