@@ -36,6 +36,9 @@ I have published 1 papers at the top international AI conferences with total <a 
 
 # Publications
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI 2026</div><img src='images/SW Unlearning.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
 [Beyond Binary Erasure: Soft-Weighted Unlearning for Fairness and Robustness](https://openreview.net/forum?id=bCPJ6Jiqv7)
 
 **Xinbao Qiao**, Ningning Ding, Yushi Cheng, Meng Zhang
@@ -88,9 +91,6 @@ Shurong Wang, Zhuoyang Shen, **Xinbao Qiao**, Tongning Zhang, Meng Zhang
 
 </div>
 </div>
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI 2026</div><img src='images/SW Unlearning.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
 
   
 <!-- 
