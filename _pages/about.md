@@ -43,7 +43,7 @@ I have published 1 papers at the top international AI conferences with total <a 
 
 **Xinbao Qiao**, Ningning Ding, Yushi Cheng, Meng Zhang
 
-- Machine Unlearning, Influence Function, Fairness, Robustness
+- Corrective Machine Unlearning, Influence Function, Fairness, Robustness
   
 **TL;DR**: Addressing the challenge of excessive unlearning in non-privacy-focused scenarios through soft-weighted strategies.
 
