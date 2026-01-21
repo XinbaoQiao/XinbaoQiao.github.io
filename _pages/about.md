@@ -17,15 +17,14 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am ✨ **Xinbao Qiao** (Sheen-bao Ciao /ʃɪnbaʊ/ /tʃjaʊ/), 🐼 Namesake of [Panda Xinbao](https://pandatribe.org/panda-xin-bao-ambassador-to-the-usa/), a final-year master student in the [Zhejiang University](https://www.zju.edu.cn/english/). 
+I am ✨ Xinbao Qiao (Sheen-bao Ciao /ʃɪnbaʊ/ /tʃjaʊ/), 🐼 Namesake of Panda Xinbao, and an M.Sc. graduate from Zhejiang University.
 
-I graduated from [Shandong University](https://www.en.sdu.edu.cn/) with a bachelor’s degree. Now I study at [ZJUI](https://zjui.intl.zju.edu.cn/en) with a master’s degree, advised by [Meng Zhang](https://person.zju.edu.cn/mengzhang).
+I received my Bachelor’s degree from Shandong University and my Master’s degree from ZJU, where I was advised by Meng Zhang.
 
-My research interest focus on building data-centric ML systems that ensure trustworthy AI systems, and deploy these systems to solve real-world challenges,
-e.g., distributed systems and healthcare/biomedicine.
+My research interests focus on building data-centric ML systems that ensure trustworthy AI systems, and deploying these systems to solve real-world challenges, e.g., distributed systems and healthcare/biomedicine.
 
 <!-- 
-I have published 1 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=nhC_OfEAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
+I have published 3 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=nhC_OfEAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
 -->
 
 <!-- 
